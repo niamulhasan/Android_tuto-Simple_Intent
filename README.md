@@ -7,3 +7,7 @@
 
 ## The XML resource files Location
 [/src/main/res/layout/](/src/main/res/layout/)
+
+## Parent activity mentioned in the 'Manifest.xml' file
+So that the sub activity has a back button to get back to the parent activity
+(src\main\AndroidManifest.xml)[\src\main\AndroidManifest.xml]
