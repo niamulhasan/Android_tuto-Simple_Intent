@@ -3,7 +3,7 @@
 ### A sample single moduler code to get refference of things
 
 ## The Class Files Location
-[/src/main/java/me/niamulhasan/tutorial/lifecycle/](/src/main/java/me/niamulhasan/tutorial/lifecycle/)
+[src/main/java/me/niamulhasan/tutorial/passingdatafromoneactivitytoanotheractivity](src/main/java/me/niamulhasan/tutorial/passingdatafromoneactivitytoanotheractivity)
 
 ## The XML resource files Location
 [/src/main/res/layout/](/src/main/res/layout/)
